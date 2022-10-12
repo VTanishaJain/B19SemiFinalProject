@@ -152,7 +152,7 @@ function gsapAnim(){
             trigger:"#page4-right img",
             scroller:"#main",
             start:"top 80%",
-            end:"top 50%",
+            end:"top 60%",
             // markers:true,
             scrub:2
         },
