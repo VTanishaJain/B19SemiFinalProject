@@ -348,7 +348,7 @@ html,body{
         width: 100%;
         position: relative;
         min-height: 100vh;
-        background-color: #fff;
+        background-color: red;
     }
     #nav-top{
         width: 100%;
