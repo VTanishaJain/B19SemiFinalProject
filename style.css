@@ -434,13 +434,13 @@ html,body{
     #btm-left>h1{
         font-family: delirium;
         line-height: 1;
-        font-size: 3.3rem;
+        font-size: 3rem;
         font-weight: normal;
-        letter-spacing: 0.15rem;
+        letter-spacing: 0rem;
     }
     #btm-left>h3{
         font-family: sans;
-        font-size: 0.5rem;
+        font-size: 0.3rem;
         line-height: 1;
         opacity: 0.5;
     }
@@ -457,7 +457,7 @@ html,body{
         font-family: delirium;
         font-weight: 100;
         font-size: 0.8rem;
-        letter-spacing: 0.15rem;
+        letter-spacing: 0.08rem;
     }
     #btm-right #arrow{
         width: 4.5vw;
@@ -496,10 +496,10 @@ html,body{
         height: 70%;
         position: absolute;
         bottom:0;
-        left: 55%;
+        left: 65%;
         -webkit-transform: translate(-55%,0%);
             -ms-transform: translate(-55%,0%);
-                transform: translate(-55%,0%);
+                transform: translate(-61%,0%);
         -webkit-filter: drop-shadow(30px 5px 20px rgba(0, 0, 0, 0.365));
                 filter: drop-shadow(30px 5px 20px rgba(0, 0, 0, 0.365));
     }
